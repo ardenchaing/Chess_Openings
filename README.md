@@ -13,13 +13,16 @@ Author: Arden Chaing
 ## Reproducing Results
 1. Download all the table of contents listed above
 2. Download all the csv files from the datasets folder above
-3. Install the chess and chess engine library
-   - `pip install chess`: contains both
-4. Install stockfish either from above or from the [website](https://stockfishchess.org/)
+3. All code should run properly with the following Python libraries:
+   - Chess
+   - Pandas
+   - Matplotlilb
+   - Scikit-learn
+6. Install stockfish either from above or from the [website](https://stockfishchess.org/)
    1. unzip/extract all the download (for reference I downloaded the Window's 64-bit version)
    2. rename the application file as stockfish (for reference mine was initially name: stockfish_12_win_x64, type: application)
    3. make sure line 96 in `data_analysis.py` references where you've downloaded the application stockfish
-5. Run `main.py` to reproduce similar results from the report
+7. Run `main.py` to reproduce similar results from the report
    - Best Opening Move for White
      - results will be the exact same as the report
    - Bishop vs Knight
