@@ -1,0 +1,31 @@
+id,rated,created_at,last_move_at,turns,victory_status,winner,increment_code,white_id,white_rating,black_id,black_rating,moves,opening_eco,opening_name,opening_ply
+TZJHLljE,TRUE,1.50E+12,1.50E+12,13,outoftime,white,15+2,bourgris,1250,a-00,1250,e4,D10,Slav Defense: Exchange Variation,5
+l1NXvwaE,TRUE,1.50E+12,1.50E+12,16,resign,black,5+10,a-00,1450,skinnerua,1450,e4,B00,Nimzowitsch Defense: Kennedy Variation,4
+mIICvQHh,TRUE,1.50E+12,1.50E+12,61,mate,white,5+10,ischia,1650,a-00,1650,e4,C20,King's Pawn Game: Leonardis Variation,3
+kWKvrqYL,TRUE,1.50E+12,1.50E+12,61,mate,white,20+0,daniamurashov,1850,adivanov2009,1850,e4,D02,Queen's Pawn Game: Zukertort Variation,3
+9tXo1AUZ,TRUE,1.50E+12,1.50E+12,95,mate,white,30+3,nik221107,2050,adivanov2009,2050,e4,C41,Philidor Defense,5
+MsoDV9wj,TRUE,1.50E+12,1.50E+12,5,draw,draw,10+0,trelynn17,2350,franklin14532,2350,e4,B27,Sicilian Defense: Mongoose Variation,4
+qwU9rasv,TRUE,1.50E+12,1.50E+12,33,resign,white,10+0,capa_jr,2450,daniel_likes_chess,2450,e4,D00,Blackmar-Diemer Gambit: Pietrowsky Defense,10
+RVN0N3VK,TRUE,1.50E+12,1.50E+12,9,resign,black,15+30,daniel_likes_chess,2500,soultego,2500,e4,B00,Nimzowitsch Defense: Kennedy Variation |  Linksspringer Variation,5
+dwF3DJHO,TRUE,1.50E+12,1.50E+12,66,resign,black,15+0,ehabfanri,2600,daniel_likes_chess,2600,d4,C50,Italian Game: Schilling-Kostic Gambit,6
+afoMwnLg,TRUE,1.50E+12,1.50E+12,119,mate,white,10+0,daniel_likes_chess,2600,mirco25,2600,d4,B01,Scandinavian Defense: Mieses-Kotroc Variation,4
+HgKLWPsz,TRUE,1.50E+12,1.50E+12,39,mate,white,20+60,daniel_likes_chess,2600,anaissac,2600,d4,A00,Van't Kruijs Opening,1
+Vf5fKWzI,TRUE,1.50E+12,1.50E+12,38,resign,black,20+60,daniel_likes_chess,2600,subham777,2600,d4,C02,French Defense: Advance Variation |  Paulsen Attack,9
+HRti5mKv,TRUE,1.50E+12,1.50E+12,60,resign,black,5+40,daniel_likes_chess,2600,roman12342005,2600,d4,C00,French Defense: Knight Variation,3
+2fEjSei6,TRUE,1.50E+12,1.50E+12,31,resign,black,8+0,daniel_likes_chess,2600,alkhan,2600,Nf3,C00,French Defense #2,2
+u7i6dOaJ,TRUE,1.50E+12,1.50E+12,31,mate,white,15+15,shivangithegenius,2600,sureka_akshat,2600,Nf3,C50,Four Knights Game: Italian Variation,8
+guanvMR5,TRUE,1.50E+12,1.50E+12,43,resign,black,15+15,sureka_akshat,2600,shivangithegenius,2600,Nf3,C57,Italian Game: Two Knights Defense |  Knight Attack,7
+PmpkWkmm,TRUE,1.50E+12,1.50E+12,52,resign,black,15+15,shivangithegenius,2600,sureka_akshat,2600,Nf3,C50,Four Knights Game: Italian Variation,8
+EwaK0IsE,TRUE,1.50E+12,1.50E+12,66,mate,black,15+16,sureka_akshat,2600,shivangithegenius,2600,c4,C50,Four Knights Game: Italian Variation,8
+yrSDozT3,TRUE,1.50E+12,1.50E+12,101,resign,black,15+15,shivangithegenius,2600,slam_ment,2600,c4,C41,Philidor Defense #3,5
+BTz6FYaB,TRUE,1.50E+12,1.50E+12,144,mate,black,8+0,vano389,2600,shmulke,2600,c4,B11,Caro-Kann Defense,4
+yC53VDys,TRUE,1.50E+12,1.50E+12,73,resign,white,60+0,jpversiani,2400,sappata,800,e4,D45,Semi-Slav Defense: Main Line,9
+HlV7M3eJ,TRUE,1.47E+12,1.47E+12,44,mate,black,15+0,harveyfu,2400,brunotartiste,800,e4,C00,French Defense: Queen's Knight,3
+AZnt3REw,TRUE,1.47E+12,1.47E+12,62,mate,black,12+0,harveyfu,800,mahdiizad,2400,e4,C68,Ruy Lopez: Exchange Variation |  Lutikov Variation,8
+SRed86sw,TRUE,1.47E+12,1.47E+12,84,mate,black,25+0,harveyfu,800,shud,2400,e4,B29,Sicilian Defense: Nimzowitsch Variation |  Advance Variation,5
+c4wLhcqs,TRUE,1.47E+12,1.47E+12,63,mate,white,10+7,harveyfu,800,zubkov1,800,e4,C48,Four Knights Game: Spanish Variation,7
+5yqO5tRl,FALSE,1.47E+12,1.47E+12,107,outoftime,white,10+0,nono42,800,harveyfu,800,e4,C77,Ruy Lopez: Morphy Defense |  Anderssen Variation,9
+ymGiX54u,FALSE,1.47E+12,1.47E+12,59,mate,white,10+5,harveyfu,3000,ferma23,3000,e4,C41,Philidor Defense #3,5
+IvDQzyhe,FALSE,1.47E+12,1.47E+12,83,resign,white,60+0,zugzwang-m8,3000,harveyfu,3000,d4,C44,Scotch Game,5
+73X9Ggzt,FALSE,1.47E+12,1.47E+12,40,mate,black,15+0,harveyfu,3000,warnado,3000,d4,C40,King's Pawn Game: Damiano Defense,4
+Np1puf3w,FALSE,1.47E+12,1.47E+12,77,mate,white,4+6,snmrtt,3000,harveyfu,3000,d4,C24,Bishop's Opening: Berlin Defense,4
